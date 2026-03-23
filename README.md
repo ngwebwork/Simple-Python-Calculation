@@ -38,3 +38,6 @@
 - Handling user input in Python
 - Using functions and event handling
 - Understanding how "eval()" works
+
+## 📌 Output
+ ![alt text](img.png)
