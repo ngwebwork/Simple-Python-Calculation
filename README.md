@@ -40,4 +40,4 @@
 - Understanding how "eval()" works
 
 ## 📌 Output
- ![alt text](img.png)
+ ![alt text](img.jpg)
